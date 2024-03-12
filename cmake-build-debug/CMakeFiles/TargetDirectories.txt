@@ -1,0 +1,3 @@
+/home/parallels/CLionProjects/System1_Project4/cmake-build-debug/CMakeFiles/System1_Project4.dir
+/home/parallels/CLionProjects/System1_Project4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/parallels/CLionProjects/System1_Project4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
